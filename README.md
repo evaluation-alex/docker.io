@@ -8,6 +8,8 @@ docker.io
 
 Node.JS wrapper for low-level Docker.io HTTP interface
 
+<a href="https://app.codesponsor.io/link/1tGTje3iAXRWhhHpTL7rTHZX/appersonlabs/docker.io" rel="nofollow"><img src="https://app.codesponsor.io/embed/1tGTje3iAXRWhhHpTL7rTHZX/appersonlabs/docker.io.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 ## Usage
 
 ### Using unix sockets (most secure)
